@@ -54,9 +54,6 @@ PRODUCT_PACKAGES += \
     libexynoscamera3 \
     libhifistill \
     libopenvx \
-    libOMX.Exynos.AVC.Encoder \
-    libOMX.Exynos.HEVC.Encoder \
-    libOMX.Exynos.HEVC.WFD.Encoder \
     sensors.sensorhub \
     libaudioeffectoffload \
     audio.primary.exynos9810 \
